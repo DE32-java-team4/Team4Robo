@@ -1,0 +1,17 @@
+{
+  "name": "Team4 Bot",
+  "version": "1.0",
+  "authors": [
+    "Tbongkim03",
+    "Nish"
+  ],
+  "description": "A sample bot.",
+  "homepage": "",
+  "countryCodes": [
+    "us",
+    "dk",
+    "ko"
+  ],
+  "platform": "JVM",
+  "programmingLang": "Java 11"
+}
