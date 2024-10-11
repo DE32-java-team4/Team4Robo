@@ -1,16 +1,15 @@
 {
-  "name": "Team4 Bot",
+  "name": "Team 4's Robot",
   "version": "1.0",
   "authors": [
-    "Tbongkim03",
-    "Nish"
+    "Mathew Nelson",
+    "Flemming N. Larsen"
   ],
-  "description": "A sample bot.",
+  "description": "Based on samplebot.",
   "homepage": "",
   "countryCodes": [
     "us",
-    "dk",
-    "ko"
+    "dk"
   ],
   "platform": "JVM",
   "programmingLang": "Java 11"

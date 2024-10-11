@@ -2,7 +2,7 @@ import dev.robocode.tankroyale.botapi.*;
 import dev.robocode.tankroyale.botapi.events.*;
 
 // ------------------------------------------------------------------
-// MyFirstBot
+// Team4Robo
 // ------------------------------------------------------------------
 // A sample bot original made for Robocode by Mathew Nelson.
 // Ported to Robocode Tank Royale by Flemming N. Larsen.
@@ -19,7 +19,7 @@ public class Team4Robo extends Bot {
 
     // Constructor, which loads the bot config file
     Team4Robo() {
-        super(BotInfo.fromFile("MyFirstBot.json"));
+        super(BotInfo.fromFile("Team4Robo.json"));
     }
 
     // Called when a new round is started -> initialize and do some movement
