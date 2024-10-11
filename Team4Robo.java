@@ -1,6 +1,8 @@
 import dev.robocode.tankroyale.botapi.*;
 import dev.robocode.tankroyale.botapi.events.*;
 
+import java.util.Random;
+
 // ------------------------------------------------------------------
 // Team4Robo
 // ------------------------------------------------------------------
